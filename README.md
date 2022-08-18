@@ -1,15 +1,21 @@
-# Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+# Joel Haldimann
 
-## Einleitung
+## In den Ferien habe ich gelernt wie man Schach spielt .
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+## Ich habe gelertn was welche Figuren machen.
 
-## Was habe ich gelernt?
+Es gibt es 6 verschiedene Figuren: Der Bauer dieser darf sich immer nur ein Feld nach vorne bewegen aussert bei seiner ersten Bewegung dort darf er 2 Felder naach vorne gehen. Um andere Figuren aus dem Spiel zu schlagen muss der Bauer diese diagonal Schlagen. Wenn ein Bauer auf die andere Seite des Spielfeldes kommt, kann er zu einer schon aus dem Spiel geschlagenen Figur werden.
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Der Turm darf sich gerade nach vorne, hinten, links und recht bewegen, er darf nicht über andere Figuren Springen
 
-## Beschreibung
+Der Springer bewegt sich in einer L-Form heisst zwei felder nach vorne, eins nach links oder rechts oder ein Feld nach vorne zwei nach links oder rechts. Der Springer kann über andere Figuren springen.
+
+Der Läufer kann sich nur diagonal bewegen und kann nicht über andere Figuren springen.
+
+Die Königin ist eigentlich eine Mischung von Turm und Springer, sie sich geradeaus und dieagonal bewegen.
+
+Der könig kann sich wie die Königin in aller Richtungen bewegen aber nur ein Feld.
+
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 

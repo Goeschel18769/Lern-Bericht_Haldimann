@@ -6,7 +6,7 @@
 
 # Es gibt es 6 verschiedene Figuren:
 
-*Der Bauer dieser darf sich immer nur ein Feld nach vorne bewegen aussert bei seiner ersten Bewegung dort darf er 2 Felder nach vorne gehen. Um andere Figuren aus dem Spiel zu schlagen muss der Bauer diese diagonal Schlagen. Wenn ein Bauer auf die andere Seite des Spielfeldes kommt, kann er zu einer schon aus dem Spiel geschlagenen Figur werden.*
+*Der Bauer, dieser darf sich immer nur ein Feld nach vorne bewegen aussert bei seiner ersten Bewegung dort darf er 2 Felder nach vorne gehen. Um andere Figuren aus dem Spiel zu schlagen muss der Bauer diese diagonal Schlagen. Wenn ein Bauer auf die andere Seite des Spielfeldes kommt, kann er zu einer schon aus dem Spiel geschlagenen Figur werden.*
 
 *Der Turm darf sich gerade nach vorne, hinten, links und recht bewegen, er darf nicht über andere Figuren Springen*
 
